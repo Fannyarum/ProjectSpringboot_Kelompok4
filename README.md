@@ -2,12 +2,7 @@
 Berikut merupakan dokumentasi project dengan menggunakan Framework java Spring-boot
 
 #### Disusun oleh :
-- Nama           : - Fannysia Arum Sari (09011282429057)
-                   - Fira Rahmadani (09011282429052)
-                   - Zulia Angraini (09011282429079)
-                   - Muhammad Araffi Nabil (09011282429045)
-                   - M Ojie Gusti Prakarsa (09011282429062)
-                   - M Fajri Rahmadani (09011282429071)
+- Nama           : Fannysia Arum Sari (09011282429057), Fira Rahmadani (09011282429052), Zulia Angraini (09011282429079), Muhammad Araffi Nabil (09011282429045), M Ojie Gusti Prakarsa   (09011282429062), M Fajri Rahmadani (09011282429071)
 - Kelas          : SK1B
 - Dosen Pengampu : Abdurahman S.Kom., M.Han.
 
@@ -17,22 +12,21 @@ Berikut merupakan dokumentasi project dengan menggunakan Framework java Spring-b
 2.	Jika belum kalian install jdk di sini https://www.oracle.com/id/java/technologies/downloads/  disarankan versi terbaru/ senyaman kalian
 3.	Install java maven di sini https://maven.apache.org/download.cgi 
 
-![image](https://github.com/user-attachments/assets/98689302-7278-49d7-9cdf-9a8b01de043b)
+![image](https://github.com/user-attachments/assets/0acc1c1d-d035-44be-a3f5-3a72b96304a6)
 
 4.	Folder yg didownload berupa .zip, extract lalu masukkan folder apache-maven-3.9.9-bin ke folder C: Program Files kalian
 5.	Cek Kembali dengan perintah `mvn -version` jika masih seperti ini
 
-![image](https://github.com/user-attachments/assets/3af336d8-a241-47fa-b610-dccb147b5a7c)
+![image](https://github.com/user-attachments/assets/248491c6-8e0c-4bfa-a3c9-08a1d41b7487)
 
 6.	Setting env maven dengan buka folder tersebut lalu buka bin salin alamatnya. Contoh alamat ( C:\Program Files\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin )
 7.	Ketik env di pencarian sebelah logo windows open terus pilih environment variables
 
-![image](https://github.com/user-attachments/assets/19185dc8-4637-4520-bef6-0aa983ba9f3e)
+![image](https://github.com/user-attachments/assets/a61c293e-439a-4108-b003-db64b8409677)
 
 8.	Klik bagian path 2x, new trs paste. Jalanin kembali perintah mvn -version
 
-![image](https://github.com/user-attachments/assets/2f76d2c1-8cf1-43a2-bbc8-6b9988b47e64)
-
+![image](https://github.com/user-attachments/assets/f60aed7d-401b-42e8-a747-ab11be7ab8a1)
 
 9.	Buka Visual Studio Code install extension : Extension Pack for Java yg dari Microsoft
 10.	Install extension : Spring Boot Extension Pack tunggu sampe tulisan disabled
